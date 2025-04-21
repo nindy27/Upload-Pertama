@@ -80,6 +80,7 @@ if ($vreset=="reset"){
 	echo $mhsw::$universitas;
 ?>
 
+<h1> Sistem Informasi </h1>
 <form action="?" method="get">
 <table>
     <tr><td>NIM</td><td>:</td><td>
