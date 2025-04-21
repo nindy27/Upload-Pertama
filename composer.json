@@ -1,0 +1,17 @@
+{
+    "name": "annindyadhery/oop-praktikum-crud",
+    "description": "Praktikum Crud Pemrograman Basis Web",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Annindyadhery\\OopPraktikumCrud\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Annindya",
+            "email": "annindyadheryy@gmail.com"
+        }
+    ],
+    "require": {}
+}
