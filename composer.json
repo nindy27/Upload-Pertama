@@ -1,10 +1,10 @@
 {
-    "name": "annindyadhery/oop-praktikum-crud-uts",
-    "description": "Pemrograman Berbasis Web2",
+    "name": "annindyadhery/oop-crud-uts",
+    "description": "Pemrograman Web",
     "type": "project",
     "autoload": {
         "psr-4": {
-            "Annindyadhery\\OopPraktikumCrudUts\\": "src/"
+            "Annindyadhery\\OopCrudUts\\": "src/"
         }
     },
     "authors": [
